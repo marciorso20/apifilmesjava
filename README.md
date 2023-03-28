@@ -18,8 +18,7 @@ Nesta atividade, foi uma exelente revisão de java. A muito tempo não utilizo e
 
 ### Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/2422675/228330591-2e982505-41f8-4175-9b9f-a806d49a1750.png)
-
+![App Screenshot](https://user-images.githubusercontent.com/2422675/228330994-7d2a4ae2-a992-427b-8578-62559d0e6f87.png)
 
 
 ## 🔗 Links
